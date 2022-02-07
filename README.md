@@ -63,3 +63,7 @@
 * <small>[Тест-кейсы 3 шт](https://docs.google.com/spreadsheets/d/1XUnzdxWHxmArrjx5IZeYqekULGqgjQbk0KzrhBYgeWo/edit?usp=sharing)</small>
 
 * <small>[Тест-кейсы для приёмочного тестирования](https://docs.google.com/spreadsheets/d/1-uWbHAmtDqjDR5QCSWLSTp4aovhIf5L6gAwnQM5mdsU/edit?usp=sharing)</small>
+
+### Мои проекты на HTML, CSS  
+* <small>[Сайт отелей-Lagoona](https://github.com/Dilyara5/Lagoona)</small>
+* <small>[Сайт Lionic](https://github.com/Dilyara5/lionic-start)</small>
