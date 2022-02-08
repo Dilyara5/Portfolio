@@ -68,6 +68,10 @@
 
 * <small>[Тест-кейсы для приёмочного тестирования](https://docs.google.com/spreadsheets/d/1-uWbHAmtDqjDR5QCSWLSTp4aovhIf5L6gAwnQM5mdsU/edit?usp=sharing)</small>
 
+### SQL
+
+ * <small>[Язык запросов SQL(задачки)](https://docs.google.com/spreadsheets/d/1q6-sWvU9tU7BvNWGEhDRrRt3Lco__d192K_jvcRJYJI/edit?usp=sharing)</small>
+
 ### Мои проекты на HTML, CSS  
 * <small>[Сайт отелей-Lagoona](https://github.com/Dilyara5/Lagoona)</small>
 * <small>[Сайт Lionic](https://github.com/Dilyara5/lionic-start)</small>
